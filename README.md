@@ -1,4 +1,6 @@
 # operationjenny
+
+[![Join the chat at https://gitter.im/patrickec246/operationjenny](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/patrickec246/operationjenny?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 I created an account at KnackHQ, which lets us make a database for free and use it.
 
 I just uploaded three classes.
